@@ -2,7 +2,7 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <h1> Zymoji </h1>
+    <h1> jay ho </h1>
   )
 }
 
