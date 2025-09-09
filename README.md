@@ -1,31 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📱 Zymoji – Emoji Based Social Media App  
 
-## Getting Started
+Zymoji is a fun and expressive **social media app** where users can share their daily moods, feelings, or moments **through emojis** 🎭. Instead of typing long posts, you simply pick emojis that best describe your day!  
 
-First, run the development server:
+---
 
+## ✨ Features  
+
+- 😀 **Emoji-based posts** – Share your day or mood with emojis only.  
+- 🕒 **Timeline feed** – See what your friends are feeling throughout the day.  
+- ❤️ **Like & Comment** on posts to engage with friends.  
+- 🔐 **Authentication** – Signup/Login to create your Zymoji profile.  
+- 👤 **User Profile** – View your posts and activities in one place.  
+- 📱 **Responsive Design** – Works on mobile and desktop.  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Frontend**  
+- React.js ⚛️  
+- Tailwind CSS 🎨 / CSS  
+- Axios (API calls)  
+
+**Backend**  
+- Node.js + Express.js 🚀  
+- JWT Authentication 🔑  
+- MongoDB + Mongoose 🍃  
+
+**Other Tools**  
+- Vite (Frontend bundler) ⚡  
+- Git & GitHub (Version Control) 🐙  
+
+---
+
+## 🚀 Getting Started  
+
+### Prerequisites  
+- Node.js (>= 18)  
+- MongoDB (local or Atlas)  
+
+### Clone the Repository  
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+git clone https://github.com/your-username/zymoji.git
+cd zymoji- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
